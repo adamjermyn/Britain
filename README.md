@@ -14,3 +14,7 @@ Such is the price of corrected spellings.
 ```
 from britain import english
 ```
+
+# Requirements
+
+Britain requires Python 3.
