@@ -18,3 +18,6 @@ class british(code.InteractiveConsole):
 
 english = british()
 english.interact(banner='')
+scottish = []
+welsh = []
+northern_irish = []
